@@ -1,2 +1,2 @@
-# contatdor
+# contador
 Criando um contador com JavaScript
